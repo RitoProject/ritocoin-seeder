@@ -397,7 +397,8 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"s1.ritocoin.org", "s2.ritocoin.org", "s3.ritocoin.org", ""};
+
+static const string mainnet_seeds[] = {"s1.ritocoin.org", "s2.ritocoin.org", "s3.ritocoin.org", "155.94.164.5", "37.145.84.173", "158.69.59.60", "113.229.15.175", "185.28.103.13", "78.36.193.51", "51.75.66.222", ""};
 static const string testnet_seeds[] = {"tn.s1.ritocoin.org", "tn.s2.ritocoin.org", "tn.s3.ritocoin.org", ""};
 static const string *seeds = mainnet_seeds;
 

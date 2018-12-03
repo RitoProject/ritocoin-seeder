@@ -1,7 +1,7 @@
-bitcoin-seeder
+ritocoin-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+Ritocoin-seeder is a crawler for the Ritocoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
